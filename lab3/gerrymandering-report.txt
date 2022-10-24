@@ -1,0 +1,204 @@
+ALABAMA
+Republican:69.93% of the vote,85.71% of the seats
+Democrat:30.07% of the vote,14.29% of the seats
+
+ALASKA
+Republican:54.58% of the vote,100.0% of the seats
+Democrat:45.42% of the vote,0.0% of the seats
+
+ARIZONA
+Republican:50.14% of the vote,44.44% of the seats
+Democrat:49.86% of the vote,55.56% of the seats
+
+ARKANSAS
+Republican:71.48% of the vote,100.0% of the seats
+Democrat:28.52% of the vote,0.0% of the seats
+
+CALIFORNIA
+Republican:33.73% of the vote,20.75% of the seats
+Democrat:66.27% of the vote,79.25% of the seats
+
+COLORADO
+Republican:45.08% of the vote,42.86% of the seats
+Democrat:54.92% of the vote,57.14% of the seats
+
+CONNECTICUT
+Republican:39.82% of the vote,0.0% of the seats
+Democrat:60.18% of the vote,100.0% of the seats
+
+DELAWARE
+Republican:41.11% of the vote,0.0% of the seats
+Democrat:58.89% of the vote,100.0% of the seats
+
+DISTRICT OF COLUMBIA
+Republican:0.0% of the vote,0.0% of the seats
+Democrat:100.0% of the vote,100.0% of the seats
+
+FLORIDA
+Republican:52.53% of the vote,59.26% of the seats
+Democrat:47.47% of the vote,40.74% of the seats
+
+GEORGIA
+Republican:51.0% of the vote,57.14% of the seats
+Democrat:49.0% of the vote,42.86% of the seats
+
+HAWAII
+Republican:30.44% of the vote,0.0% of the seats
+Democrat:69.56% of the vote,100.0% of the seats
+
+IDAHO
+Republican:68.72% of the vote,100.0% of the seats
+Democrat:31.28% of the vote,0.0% of the seats
+
+ILLINOIS
+Republican:41.87% of the vote,27.78% of the seats
+Democrat:58.13% of the vote,72.22% of the seats
+
+INDIANA
+Republican:59.27% of the vote,77.78% of the seats
+Democrat:40.73% of the vote,22.22% of the seats
+
+IOWA
+Republican:53.0% of the vote,75.0% of the seats
+Democrat:47.0% of the vote,25.0% of the seats
+
+KANSAS
+Republican:58.2% of the vote,75.0% of the seats
+Democrat:41.8% of the vote,25.0% of the seats
+
+KENTUCKY
+Republican:64.97% of the vote,83.33% of the seats
+Democrat:35.03% of the vote,16.67% of the seats
+
+LOUISIANA
+Republican:65.32% of the vote,83.33% of the seats
+Democrat:34.68% of the vote,16.67% of the seats
+
+MAINE
+Republican:42.05% of the vote,0.0% of the seats
+Democrat:57.95% of the vote,100.0% of the seats
+
+MARYLAND
+Republican:34.96% of the vote,12.5% of the seats
+Democrat:65.04% of the vote,87.5% of the seats
+
+MASSACHUSETTS
+Republican:21.97% of the vote,0.0% of the seats
+Democrat:78.03% of the vote,100.0% of the seats
+
+MICHIGAN
+Republican:49.33% of the vote,50.0% of the seats
+Democrat:50.67% of the vote,50.0% of the seats
+
+MINNESOTA
+Republican:100.0% of the vote,100.0% of the seats
+Democrat:0.0% of the vote,0.0% of the seats
+
+MISSISSIPPI
+Republican:65.71% of the vote,75.0% of the seats
+Democrat:34.29% of the vote,25.0% of the seats
+
+MISSOURI
+Republican:59.53% of the vote,75.0% of the seats
+Democrat:40.47% of the vote,25.0% of the seats
+
+MONTANA
+Republican:56.39% of the vote,100.0% of the seats
+Democrat:43.61% of the vote,0.0% of the seats
+
+NEBRASKA
+Republican:64.22% of the vote,100.0% of the seats
+Democrat:35.78% of the vote,0.0% of the seats
+
+NEVADA
+Republican:48.78% of the vote,25.0% of the seats
+Democrat:51.22% of the vote,75.0% of the seats
+
+NEW HAMPSHIRE
+Republican:46.1% of the vote,0.0% of the seats
+Democrat:53.9% of the vote,100.0% of the seats
+
+NEW JERSEY
+Republican:42.06% of the vote,16.67% of the seats
+Democrat:57.94% of the vote,83.33% of the seats
+
+NEW MEXICO
+Republican:45.13% of the vote,33.33% of the seats
+Democrat:54.87% of the vote,66.67% of the seats
+
+NEW YORK
+Republican:36.33% of the vote,29.63% of the seats
+Democrat:63.67% of the vote,70.37% of the seats
+
+NORTH CAROLINA
+Republican:49.72% of the vote,61.54% of the seats
+Democrat:50.28% of the vote,38.46% of the seats
+
+NORTH DAKOTA
+Republican:100.0% of the vote,100.0% of the seats
+Democrat:0.0% of the vote,0.0% of the seats
+
+OHIO
+Republican:57.02% of the vote,75.0% of the seats
+Democrat:42.98% of the vote,25.0% of the seats
+
+OKLAHOMA
+Republican:68.7% of the vote,100.0% of the seats
+Democrat:31.3% of the vote,0.0% of the seats
+
+OREGON
+Republican:42.93% of the vote,20.0% of the seats
+Democrat:57.07% of the vote,80.0% of the seats
+
+PENNSYLVANIA
+Republican:50.63% of the vote,50.0% of the seats
+Democrat:49.37% of the vote,50.0% of the seats
+
+RHODE ISLAND
+Republican:26.01% of the vote,0.0% of the seats
+Democrat:73.99% of the vote,100.0% of the seats
+
+SOUTH CAROLINA
+Republican:56.75% of the vote,85.71% of the seats
+Democrat:43.25% of the vote,14.29% of the seats
+
+SOUTH DAKOTA
+Republican:100.0% of the vote,100.0% of the seats
+Democrat:0.0% of the vote,0.0% of the seats
+
+TENNESSEE
+Republican:60.39% of the vote,77.78% of the seats
+Democrat:39.61% of the vote,22.22% of the seats
+
+TEXAS
+Republican:54.76% of the vote,63.89% of the seats
+Democrat:45.24% of the vote,36.11% of the seats
+
+UTAH
+Republican:63.32% of the vote,100.0% of the seats
+Democrat:36.68% of the vote,0.0% of the seats
+
+VERMONT
+Republican:28.64% of the vote,0.0% of the seats
+Democrat:71.36% of the vote,100.0% of the seats
+
+VIRGINIA
+Republican:47.6% of the vote,36.36% of the seats
+Democrat:52.4% of the vote,63.64% of the seats
+
+WASHINGTON
+Republican:39.77% of the vote,30.0% of the seats
+Democrat:60.23% of the vote,70.0% of the seats
+
+WEST VIRGINIA
+Republican:67.56% of the vote,100.0% of the seats
+Democrat:32.44% of the vote,0.0% of the seats
+
+WISCONSIN
+Republican:51.47% of the vote,62.5% of the seats
+Democrat:48.53% of the vote,37.5% of the seats
+
+WYOMING
+Republican:73.61% of the vote,100.0% of the seats
+Democrat:26.39% of the vote,0.0% of the seats
+

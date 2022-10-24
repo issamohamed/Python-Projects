@@ -1,0 +1,16 @@
+{
+    "critter_files": {
+        "Stone": "stone.py", 
+        "Mouse": "mouse.py",
+        "Tiger": "tiger.py"
+    },
+    "critter_pops": {
+        "Stone": 25,
+        "Mouse": 25,
+        "Tiger": 25
+    },
+    "width": 40,
+    "height": 30,
+    "quickfight": false,
+    "verbose": false
+}
